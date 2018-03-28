@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23315a7a474c1cfc76b1ec57b3fe3fe9/AndroidManifest.xml:2:1-11:12
+MERGED from [:CordovaLib] /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:102-145
+		INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:146-204
+	android:versionCode
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23315a7a474c1cfc76b1ec57b3fe3fe9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23315a7a474c1cfc76b1ec57b3fe3fe9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#io.voiceit.voiceitapi2cordovademo.MainActivity
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+activity#com.voiceittech.plugins.VideoEnrollmentView
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:12:9-19:12
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:12:19-77
+intent-filter#android.intent.action.MAIN
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:16:597-18:29
+activity#com.voiceittech.plugins.VideoVerificationView
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:20:9-27:12
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:20:19-79
+uses-sdk
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:29:5-74
+MERGED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23315a7a474c1cfc76b1ec57b3fe3fe9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23315a7a474c1cfc76b1ec57b3fe3fe9/AndroidManifest.xml:5:5-7:41
+MERGED from [:CordovaLib] /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:29:42-71
+	android:minSdkVersion
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:29:15-41
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:30:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:31:5-65
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:31:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:32:5-60
+	android:name
+		ADDED from /Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/src/main/AndroidManifest.xml:32:19-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/117531c29ed77ee92f91fb69ef0f5968/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a34f964211967231e3b8fd1c5af731b0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8e21a929c9bcbd9342a309f108846b0e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2d7b64e255f34c0b6bf00e77f82f3a0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6e5d2b0ee42760114c54bc4d80a6ddc8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7260cb1c65f467f47a82e479954654ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4770f94db6d688988b0ed5e03b83dff5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fa50f72a1a9575a5c238ec0d076a99c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1a7300a746acfc93b2bea86c476efb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76dd330a481a27957156cc5302fbb51e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d3c53204724c4d7b5be35503b2bcab11/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a6fe05e214f54c99d2bc5c6934222003/AndroidManifest.xml:26:13-58

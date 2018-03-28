@@ -1,0 +1,4 @@
+#Mon Mar 19 16:21:58 CDT 2018
+base.0=/Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

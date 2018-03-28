@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-launchscreen-storyboard": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-voiceit-api-2": {
+      "CAMERA_USAGE_DESCRIPTION": "This app needs to access to your camera for face biometrics",
+      "MICROPHONE_USAGE_DESCRIPTION": "This app needs to access to your microphone for voice biometrics",
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    }
+  }
+}

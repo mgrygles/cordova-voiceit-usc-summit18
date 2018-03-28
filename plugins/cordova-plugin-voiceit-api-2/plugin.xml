@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-voiceit-api-2"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        version="1.3.7">
+
+  <name>VoiceItCordova</name>
+
+  <description>
+    This plugin is a Cordova VoiceIt plugin for that encapsulates VoiceIt's Voice Authentication(Voice Biometrics) API
+  </description>
+
+  <license>MIT</license>
+  <keywords>voiceit,biometrics,voice-biometrics,voice authentication,face verification,face identification,voice identification,voice verification</keywords>
+
+  <engines>
+        <engine name="cordova-android" version=">=6.3.0" />
+  </engines>
+
+  <js-module src="www/VoiceItCordova.js" name="VoiceItCordova">
+    <clobbers target="window.plugins.VoiceItCordova" />
+  </js-module>
+
+  <!-- ios -->
+   <platform name="ios">
+     <config-file target="config.xml" parent="/*">
+       <feature name="VoiceItCordova">
+         <param name="ios-package" value="VoiceItCordova"/>
+       </feature>
+     </config-file>
+     <header-file src="src/ios/EnrollFinishViewController.h"/>
+     <source-file src="src/ios/EnrollFinishViewController.m"/>
+     <header-file src="src/ios/EnrollSetupViewController.h"/>
+     <source-file src="src/ios/EnrollSetupViewController.m"/>
+     <header-file src="src/ios/EnrollViewController.h"/>
+     <source-file src="src/ios/EnrollViewController.m"/>
+     <header-file src="src/ios/MainNavigationController.h"/>
+     <source-file src="src/ios/MainNavigationController.m"/>
+     <header-file src="src/ios/ResponseManager.h"/>
+     <source-file src="src/ios/ResponseManager.m"/>
+     <header-file src="src/ios/SpinningView.h"/>
+     <source-file src="src/ios/SpinningView.m"/>
+     <header-file src="src/ios/Utilities.h"/>
+     <source-file src="src/ios/Utilities.m"/>
+     <header-file src="src/ios/Styles.h"/>
+     <source-file src="src/ios/Styles.m"/>
+     <header-file src="src/ios/VoiceItLogo.h"/>
+     <source-file src="src/ios/VoiceItLogo.m"/>
+     <header-file src="src/ios/VerificationViewController.h"/>
+     <source-file src="src/ios/VerificationViewController.m"/>
+     <header-file src="src/ios/VoiceItAPITwo.h"/>
+     <source-file src="src/ios/VoiceItAPITwo.m"/>
+     <header-file src="src/ios/VoiceItCordova.h"/>
+     <source-file src="src/ios/VoiceItCordova.m"/>
+     <resource-file src="src/ios/VoiceIt.storyboard"/>
+     <resource-file src="src/ios/Prompts.strings"/>
+
+     <framework src="Foundation.framework" />
+     <framework src="CoreGraphics.framework" />
+     <framework src="MobileCoreServices.framework" />
+     <framework src="UIKit.framework" />
+     <framework src="AVFoundation.framework" />
+
+     <preference name="CAMERA_USAGE_DESCRIPTION" default=" " />
+     <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
+       <string>$CAMERA_USAGE_DESCRIPTION</string>
+     </config-file>
+
+     <preference name="MICROPHONE_USAGE_DESCRIPTION" default=" " />
+     <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
+       <string>$MICROPHONE_USAGE_DESCRIPTION</string>
+     </config-file>
+
+   </platform>
+
+  <!-- android -->
+  <platform name="android">
+    <config-file target="res/xml/config.xml" parent="/*">
+      <feature name="VoiceItCordova">
+        <param name="android-package" value="com.voiceittech.plugins.VoiceItCordova" />
+      </feature>
+    </config-file>
+    <config-file target="AndroidManifest.xml" parent="/*">
+      <uses-permission android:name="android.permission.INTERNET" />
+      <uses-permission android:name="android.permission.RECORD_AUDIO" />
+      <uses-permission android:name="android.permission.CAMERA" />
+      <uses-feature android:name="android.hardware.camera"/>
+    </config-file>
+
+    <config-file target="AndroidManifest.xml" parent="/manifest/application">
+      <activity android:name="com.voiceittech.plugins.VideoEnrollmentView">
+        android:label="@string/app_name"
+        android:screenOrientation="sensorPortrait"
+      >
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+        </intent-filter>
+      </activity>
+      <activity android:name="com.voiceittech.plugins.VideoVerificationView">
+        android:label="@string/app_name"
+        android:screenOrientation="sensorPortrait"
+      >
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+        </intent-filter>
+      </activity>
+    </config-file>
+
+    <source-file src="src/android/VoiceItCordova.java" target-dir="src/com/voiceittech/plugins"/>
+    <source-file src="src/android/VoiceItAPI2.java" target-dir="src/com/voiceittech/plugins"/>
+    <source-file src="src/android/CameraPreview.java" target-dir="src/com/voiceittech/plugins"/>
+    <source-file src="src/android/VideoEnrollmentView.java" target-dir="src/com/voiceittech/plugins"/>
+    <source-file src="src/android/VideoVerificationView.java" target-dir="src/com/voiceittech/plugins"/>
+    <source-file src="src/android/RadiusOverlayView.java" target-dir="src/com/voiceittech/plugins"/>
+    <resource-file src="src/android/voiceItStrings.xml" target="res/values/voiceItStrings.xml"/>
+    <resource-file src="src/android/voiceItColors.xml" target="res/values/voiceItColors.xml"/>
+    <resource-file src="src/android/voiceItStyles.xml" target="res/values/voiceItStyles.xml"/>
+    <resource-file src="src/android/activity_video_enrollment_view.xml" target="res/layout/activity_video_enrollment_view.xml"/>
+    <resource-file src="src/android/activity_video_verification_view.xml" target="res/layout/activity_video_verification_view.xml"/>
+    <framework src="com.android.support:appcompat-v7:26.1.0"/>
+    <framework src="com.android.support.constraint:constraint-layout:1.0.2"/>
+    <framework src="com.android.support:design:26.1.0"/>
+    <framework src="com.loopj.android:android-async-http:1.4.9"/>
+  </platform>
+</plugin>

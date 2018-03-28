@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-voiceit-api-2",
+        "scope": null,
+        "escapedName": "cordova-plugin-voiceit-api-2",
+        "name": "cordova-plugin-voiceit-api-2",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/armaanbindra/VoiceIt/TestCordova/test-again"
+    ]
+  ],
+  "_from": "cordova-plugin-voiceit-api-2@latest",
+  "_id": "cordova-plugin-voiceit-api-2@0.0.58",
+  "_inCache": true,
+  "_location": "/cordova-plugin-voiceit-api-2",
+  "_nodeVersion": "7.10.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-voiceit-api-2_0.0.58_1518538614310_0.3611515151988989"
+  },
+  "_npmUser": {
+    "name": "armaanbindra",
+    "email": "emailme@armaanbindra.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-voiceit-api-2",
+    "scope": null,
+    "escapedName": "cordova-plugin-voiceit-api-2",
+    "name": "cordova-plugin-voiceit-api-2",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-voiceit-api-2/-/cordova-plugin-voiceit-api-2-0.0.58.tgz",
+  "_shasum": "dc201b69b4dceda0368e0c9e00029722207f20c0",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-voiceit-api-2",
+  "_where": "/Users/armaanbindra/VoiceIt/TestCordova/test-again",
+  "author": {
+    "name": "VoiceIt Technologies LLC."
+  },
+  "bugs": {
+    "url": "https://github.com/voiceittech/cordova-plugin-voiceit-api-2/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-voiceit-api-2",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "cordova_name": "VoiceItCordova",
+  "dependencies": {},
+  "description": "This plugin is a Cordova VoiceIt plugin for that encapsulates VoiceIt's Voice Authentication(Voice Biometrics) API",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "dc201b69b4dceda0368e0c9e00029722207f20c0",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-voiceit-api-2/-/cordova-plugin-voiceit-api-2-0.0.58.tgz",
+    "fileCount": 43,
+    "unpackedSize": 369951
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "cd6c9a5621afe40b9c435e1189de73c3f5b8164c",
+  "homepage": "https://github.com/voiceittech/cordova-plugin-voiceit-api-2#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "voice biometrics",
+    "voice",
+    "biometrics",
+    "security",
+    "authentication",
+    "VoiceIt"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "armaanbindra",
+      "email": "emailme@armaanbindra.com"
+    }
+  ],
+  "name": "cordova-plugin-voiceit-api-2",
+  "optionalDependencies": {},
+  "platforms": [
+    "android"
+  ],
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.58"
+}

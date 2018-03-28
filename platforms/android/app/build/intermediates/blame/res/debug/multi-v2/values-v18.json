@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/armaanbindra/VoiceIt/TestCordova/voiceitapi2-cordova-demo-app/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/armaanbindra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aeccff3679dab8f48e895fec668dd835/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceitapi2-demo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uscdevtest/work/USCCTechSummit2018/chatbot/cordova-voiceit-usc-summit18/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/uscdevtest/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/50622a373b83a9fa5c74f5178caa83a1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

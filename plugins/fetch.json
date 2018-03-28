@@ -1,0 +1,53 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-launchscreen-storyboard": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-launchscreen-storyboard@2.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-screen-orientation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-screen-orientation"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-nativestorage": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-nativestorage"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-voiceit-api-2": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-voiceit-api-2"
+    },
+    "is_top_level": true,
+    "variables": {
+      "MICROPHONE_USAGE_DESCRIPTION": "This app needs to access to your microphone for voice biometrics",
+      "CAMERA_USAGE_DESCRIPTION": "This app needs to access to your camera for face biometrics"
+    }
+  }
+}

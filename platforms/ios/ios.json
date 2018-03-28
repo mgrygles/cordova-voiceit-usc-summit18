@@ -1,0 +1,129 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {
+      "config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"LaunchScreen\"><param name=\"ios-package\" onload=\"true\" value=\"LaunchScreenStoryboard\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"NativeStorage\"><param name=\"ios-package\" value=\"NativeStorage\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"CDVOrientation\"><param name=\"ios-package\" value=\"CDVOrientation\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"VoiceItCordova\"><param name=\"ios-package\" value=\"VoiceItCordova\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "*-Info.plist": {
+        "parents": {
+          "NSCameraUsageDescription": [
+            {
+              "xml": "<string>This app needs to access to your camera for face biometrics</string>",
+              "count": 1
+            }
+          ],
+          "NSMicrophoneUsageDescription": [
+            {
+              "xml": "<string>This app needs to access to your microphone for voice biometrics</string>",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "installed_plugins": {
+    "cordova-plugin-launchscreen-storyboard": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-voiceit-api-2": {
+      "CAMERA_USAGE_DESCRIPTION": "This app needs to access to your camera for face biometrics",
+      "MICROPHONE_USAGE_DESCRIPTION": "This app needs to access to your microphone for voice biometrics",
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "io.voiceit.voiceitapi2cordovademo"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "id": "cordova-plugin-launchscreen-storyboard.launchscreen",
+      "file": "plugins/cordova-plugin-launchscreen-storyboard/www/launchscreen.js",
+      "pluginId": "cordova-plugin-launchscreen-storyboard",
+      "clobbers": [
+        "window.LaunchScreen"
+      ]
+    },
+    {
+      "id": "cordova-plugin-nativestorage.mainHandle",
+      "file": "plugins/cordova-plugin-nativestorage/www/mainHandle.js",
+      "pluginId": "cordova-plugin-nativestorage",
+      "clobbers": [
+        "NativeStorage"
+      ]
+    },
+    {
+      "id": "cordova-plugin-nativestorage.LocalStorageHandle",
+      "file": "plugins/cordova-plugin-nativestorage/www/LocalStorageHandle.js",
+      "pluginId": "cordova-plugin-nativestorage"
+    },
+    {
+      "id": "cordova-plugin-nativestorage.NativeStorageError",
+      "file": "plugins/cordova-plugin-nativestorage/www/NativeStorageError.js",
+      "pluginId": "cordova-plugin-nativestorage"
+    },
+    {
+      "id": "cordova-plugin-screen-orientation.screenorientation",
+      "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.js",
+      "pluginId": "cordova-plugin-screen-orientation",
+      "clobbers": [
+        "cordova.plugins.screenorientation"
+      ]
+    },
+    {
+      "id": "cordova-plugin-voiceit-api-2.VoiceItCordova",
+      "file": "plugins/cordova-plugin-voiceit-api-2/www/VoiceItCordova.js",
+      "pluginId": "cordova-plugin-voiceit-api-2",
+      "clobbers": [
+        "window.plugins.VoiceItCordova"
+      ]
+    },
+    {
+      "id": "es6-promise-plugin.Promise",
+      "file": "plugins/es6-promise-plugin/www/promise.js",
+      "pluginId": "es6-promise-plugin",
+      "runs": true
+    }
+  ],
+  "plugin_metadata": {
+    "cordova-plugin-launchscreen-storyboard": "1.0.1",
+    "cordova-plugin-nativestorage": "2.2.2",
+    "cordova-plugin-screen-orientation": "3.0.1",
+    "cordova-plugin-voiceit-api-2": "1.3.7",
+    "cordova-plugin-whitelist": "1.3.3",
+    "es6-promise-plugin": "4.2.2"
+  }
+}

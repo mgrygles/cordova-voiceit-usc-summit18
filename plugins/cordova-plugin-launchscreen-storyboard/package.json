@@ -1,0 +1,115 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-launchscreen-storyboard@2.0.0",
+        "scope": null,
+        "escapedName": "cordova-plugin-launchscreen-storyboard",
+        "name": "cordova-plugin-launchscreen-storyboard",
+        "rawSpec": "2.0.0",
+        "spec": "2.0.0",
+        "type": "version"
+      },
+      "/Users/armaanbindra/VoiceIt/TestCordova/test-again"
+    ]
+  ],
+  "_from": "cordova-plugin-launchscreen-storyboard@2.0.0",
+  "_id": "cordova-plugin-launchscreen-storyboard@2.0.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-launchscreen-storyboard",
+  "_nodeVersion": "7.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-launchscreen-storyboard-2.0.0.tgz_1483586451040_0.31716355052776635"
+  },
+  "_npmUser": {
+    "name": "toddbluhm",
+    "email": "toddbluhm@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-launchscreen-storyboard@2.0.0",
+    "scope": null,
+    "escapedName": "cordova-plugin-launchscreen-storyboard",
+    "name": "cordova-plugin-launchscreen-storyboard",
+    "rawSpec": "2.0.0",
+    "spec": "2.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-launchscreen-storyboard/-/cordova-plugin-launchscreen-storyboard-2.0.0.tgz",
+  "_shasum": "18a27578ef1fb483cbb9062d41860b1e4b2aef52",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-launchscreen-storyboard@2.0.0",
+  "_where": "/Users/armaanbindra/VoiceIt/TestCordova/test-again",
+  "author": {
+    "name": "Todd Bluhm"
+  },
+  "bugs": {
+    "url": "https://github.com/toddbluhm/cordova-plugin-launchscreen-storyboard/issues"
+  },
+  "contributors": [
+    {
+      "name": "Daniel Cousens",
+      "email": "github@dcousens.com"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-launchscreen-storyboard",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova LaunchScreen Storyboard Plugin",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "18a27578ef1fb483cbb9062d41860b1e4b2aef52",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-launchscreen-storyboard/-/cordova-plugin-launchscreen-storyboard-2.0.0.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "0.1.0": {
+        "cordova": ">=3.0.0"
+      },
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "gitHead": "45338424a39b6484e17872e67c770e0bdee5b286",
+  "homepage": "https://github.com/toddbluhm/cordova-plugin-launchscreen-storyboard#readme",
+  "keywords": [
+    "cordova",
+    "launchscreen",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "storyboard",
+    "splashscreen"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "toddbluhm",
+      "email": "toddbluhm@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-launchscreen-storyboard",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddbluhm/cordova-plugin-launchscreen-storyboard.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "version": "2.0.0"
+}
